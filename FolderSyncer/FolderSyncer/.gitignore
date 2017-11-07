@@ -1,0 +1,5 @@
+*.config
+*.csproj
+*.csproj.sdsettings
+*.OpenCover.Settings
+*.resx
